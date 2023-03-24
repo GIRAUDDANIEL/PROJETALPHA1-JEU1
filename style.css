@@ -1,0 +1,25 @@
+/*Organisation de la page css pour index*/
+
+
+
+body{
+  background-color: #16a6dc;
+}
+
+canvas {
+    position: absolute;
+    top : 50%;
+    left : 50%;
+    transform: translate(-50%, -50%);
+    border : 5px white double;
+    box-shadow: 2px black;
+    margin : 2px;
+    
+}
+
+button{
+    width: 100 px;
+    margin-right: 25px;
+    margin-left:25px;
+    font-size: 2em;
+}
